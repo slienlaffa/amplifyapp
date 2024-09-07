@@ -1,0 +1,14 @@
+{
+  "resourceName": "modulo5",
+  "policyUUID": "00e80594",
+  "bucketName": "amplifyapp3c7b155e34ab43948b09fa871833ef9b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

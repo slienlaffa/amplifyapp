@@ -17,6 +17,9 @@
       },
       "auth": {
         "amplifyapp68961969": {}
+      },
+      "storage": {
+        "modulo5": {}
       }
     }
   }
